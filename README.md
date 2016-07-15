@@ -1,7 +1,7 @@
 [![Go Report](https://goreportcard.com/badge/github.com/zyfdegh/unqlite-crud)](https://goreportcard.com/report/github.com/zyfdegh/unqlite-crud)
 
 # unqlite-crud
-![Mdviewer logo](https://raw.githubusercontent.com/zyfdegh/unqlite-crud/master/raw/golang-unqlite.png)
+![Golang Unqlite](https://raw.githubusercontent.com/zyfdegh/unqlite-crud/master/raw/golang-unqlite.png)
 
 unqlite-crud is a golang example on how to add, update, query and delete data in UnQLite.
 It uses the binder [svkior/unqlitego](github.com/svkior/unqlitego) to interact with UnQLite.
