@@ -21,6 +21,7 @@ Pull it by
 ```sh
 docker pull zyfdedh/unqlite
 ```
+Nevermind, the image tagged latest(based on alpine) is as small as 5.41MB.
 Dockerfile is also opensourced on github [zyfdegh/dockerfile-unqlite](https://github.com/zyfdegh/dockerfile-unqlite)
 
 ## Build from source
